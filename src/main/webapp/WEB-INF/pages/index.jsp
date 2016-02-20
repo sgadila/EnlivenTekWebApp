@@ -1,6 +1,7 @@
 <html>
 <body>
-<h2>Welcome to EnlivenTech Web Page from Tomcat App Server!!!</h2>
-<h3>Message: <font color="green">${msgArgument}</font></h3>
+<h2>Welcome to Enliventech Web Page</h2>
+ 
+<h3>${msg}</h3>
 </body>
 </html>
