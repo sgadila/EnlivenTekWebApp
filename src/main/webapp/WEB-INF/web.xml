@@ -27,14 +27,13 @@
    </listener>
 
     <servlet>
-      <servlet-name>servletDispatcher</servlet-name>
+      <servlet-name>mvc-dispatcher</servlet-name>
       <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+	  <load-on-startup>1</load-on-startup>
     </servlet>
  
-
-
  	<servlet-mapping>
-		<servlet-name>view-resolver</servlet-name>
+		<servlet-name>mvc-dispatcher</servlet-name>
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 
