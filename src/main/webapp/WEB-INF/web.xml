@@ -30,11 +30,11 @@
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
  
-	<!--<context-param>
+	<context-param>
 		<param-name>contextConfigLocation</param-name>
-		<!--param-value>/WEB-INF/view-resolver-servlet.xml</param-value>
+		<!--param-value>/WEB-INF/view-resolver-servlet.xml</param-value>-->
 		<param-value>/WEB-INF/view-resolver-servlet.xml</param-value>
-	</context-param>-->
+	</context-param>
  
 	<listener>
 		<listener-class>
