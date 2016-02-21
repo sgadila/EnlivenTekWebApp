@@ -2,15 +2,15 @@
 <html>
 <head>
 <meta charset="utf-8" />
-<title>${pageTitle} - ${siteName}</title>
+<title>Devops Site - Devops</title>
 <meta name="description" content="${metaDescription}" />
 <meta name="keywords" content="${metaKeywords}" />
   <meta name="author" content="Pierre-Henry Soria" />
-  <link rel="stylesheet" href="${tplUrl}css/bootstrap.css" />
-  <link rel="stylesheet" href="${tplUrl}css/bootstrap-responsive.css" />
-  <link rel="stylesheet" href="${tplUrl}css/common.css" />
-  <link rel="stylesheet" href="${tplUrl}css/ajph.css" />
-  <link rel="stylesheet" href="${tplUrl}css/tipsy.css" />
+  <link rel="stylesheet" href="/EnlivenTekWebApp/tpl/base/css/bootstrap.css" />
+  <link rel="stylesheet" href="/EnlivenTekWebApp/tpl/base/css/bootstrap-responsive.css" />
+  <link rel="stylesheet" href="/EnlivenTekWebApp/tpl/base/css/common.css" />
+  <link rel="stylesheet" href="/EnlivenTekWebApp/tpl/base/css/ajph.css" />
+  <link rel="stylesheet" href="/EnlivenTekWebApp/tpl/base/css/tipsy.css" />
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
   <jsp:include page="/WEB-INF/jsp/analytics.inc.jsp"></jsp:include>
 </head>

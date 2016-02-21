@@ -8,6 +8,6 @@ request.setAttribute("pageHeading", title);
 %>
 <jsp:include page="/WEB-INF/jsp/header.inc.jsp"></jsp:include>
 
-	<p>Contact me at <a href="mailto:${emailAddress}">${emailAddress}</a></p>
+	<p>Contact me at <a href="mailto:srgsite@gmail.com">srgsite@gmail.com</a></p>
 
 <jsp:include page="/WEB-INF/jsp/footer.inc.jsp"></jsp:include>

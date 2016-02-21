@@ -12,7 +12,7 @@ request.setAttribute("pageHeading", title);
 
  <div class="center">
 
-This Privacy Policy governs the manner in which ${siteName} collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="${url}">${url}</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by ${siteName}.<br><br>
+This Privacy Policy governs the manner in which ${siteName} collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="/EnlivenTekWebApp/">/EnlivenTekWebApp/</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by ${siteName}.<br><br>
 
 <b>Personal identification information</b><br><br>
 
@@ -75,9 +75,9 @@ If you do not agree to this policy, please do not use our Site. Your continued u
 <b>Contacting us</b><br><br>
 
 If you have any questions about this policy
-privacy practices of this site, please contact us via our &quot;<a href="${url}contact.jsp" title="Contact Us">contact form</a>&quot;<br>
+privacy practices of this site, please contact us via our &quot;<a href="/EnlivenTekWebApp/contact.jsp" title="Contact Us">contact form</a>&quot;<br>
 
-<a href="${url}">${url}</a><br>
+<a href="/EnlivenTekWebApp/">/EnlivenTekWebApp/</a><br>
 <br>
 <span class="gray">This document was last updated on January 26, 2012.</span><br><br>
 
