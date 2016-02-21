@@ -6,11 +6,11 @@
 <meta name="description" content="${metaDescription}" />
 <meta name="keywords" content="${metaKeywords}" />
   <meta name="author" content="Sreeni Gadila" />
-  <link rel="stylesheet" href="${tplUrl}css/bootstrap.css" />
-  <link rel="stylesheet" href="${tplUrl}css/bootstrap-responsive.css" />
-  <link rel="stylesheet" href="${tplUrl}css/common.css" />
-  <link rel="stylesheet" href="${tplUrl}css/ajph.css" />
-  <link rel="stylesheet" href="${tplUrl}css/tipsy.css" />
+  <link rel="stylesheet" href="/WEB-INF/css/bootstrap.css" />
+  <link rel="stylesheet" href="/WEB-INF/css/bootstrap-responsive.css" />
+  <link rel="stylesheet" href="/WEB-INF/css/common.css" />
+  <link rel="stylesheet" href="/WEB-INF/css/ajph.css" />
+  <link rel="stylesheet" href="/WEB-INF/css/tipsy.css" />
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
   <jsp:include page="/WEB-INF/jsp/analytics.inc.jsp"></jsp:include>
 </head>
