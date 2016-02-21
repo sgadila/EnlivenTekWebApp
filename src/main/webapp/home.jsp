@@ -9,7 +9,7 @@ request.setAttribute("pageHeading", "Welcome to Enliven-Tech Website!");
 
 
 <div class="center">
-  <p>Welcome to the today: <% Date date = new Date( ); SimpleDateFormat ft = new SimpleDateFormat ("E MM.dd.yyyy"); out.print( "<h2 align=\"left\">" + ft.format(date) + "</h2>"); %></p>
+  <p>Welcome to the today: <% Date date = new Date( ); SimpleDateFormat ft = new SimpleDateFormat ("E MM.dd.yyyy"); out.print( "<h2>" + ft.format(date) + "</h2>"); %></p>
 
 
 </div>
