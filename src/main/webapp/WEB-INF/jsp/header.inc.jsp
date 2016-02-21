@@ -3,9 +3,9 @@
 <head>
 <meta charset="utf-8" />
 <title>Devops Site - Devops</title>
-<meta name="description" content="${metaDescription}" />
-<meta name="keywords" content="${metaKeywords}" />
-  <meta name="author" content="Pierre-Henry Soria" />
+<meta name="description" content="Devops site" />
+<meta name="keywords" content="Devops, ansible, tomcat, jenkins" />
+  <meta name="author" content="Sreeni Gadila" />
   <link rel="stylesheet" href="/EnlivenTekWebApp/resources/css/bootstrap.css" />
   <link rel="stylesheet" href="/EnlivenTekWebApp/resources/css/bootstrap-responsive.css" />
   <link rel="stylesheet" href="/EnlivenTekWebApp/resources/css/common.css" />

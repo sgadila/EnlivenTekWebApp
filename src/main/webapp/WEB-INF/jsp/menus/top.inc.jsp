@@ -6,7 +6,7 @@
       <span class="icon-bar"></span>
       <span class="icon-bar"></span>
       </a>
-      <header class="brand">pH7</header>
+      <header class="brand">EnlivenTech</header>
           
       <nav class="nav-collapse">
   <ul class="nav">
