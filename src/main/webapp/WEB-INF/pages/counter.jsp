@@ -10,7 +10,7 @@ request.setAttribute("pageTitle", "Counter");
 request.setAttribute("pageHeading", "My Page Counter");
 %>
 
-<jsp:include page="/WEB-INF/jsp/header.inc.jsp"></jsp:include>
+<jsp:include page="/WEB-INF/pages/header.inc.jsp"></jsp:include>
 
 <%
   String visitor = ++counter + " Visitors";
@@ -19,4 +19,4 @@ request.setAttribute("pageHeading", "My Page Counter");
 <p>The number of visitors is <%= visitor %></p>
 
 
-<jsp:include page="/WEB-INF/jsp/footer.inc.jsp"></jsp:include>
+<jsp:include page="/WEB-INF/pages/footer.inc.jsp"></jsp:include>

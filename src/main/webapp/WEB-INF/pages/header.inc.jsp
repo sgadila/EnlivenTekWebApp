@@ -12,11 +12,11 @@
   <link rel="stylesheet" href="${tplUrl}css/ajph.css" />
   <link rel="stylesheet" href="${tplUrl}css/tipsy.css" />
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-  <jsp:include page="/WEB-INF/jsp/analytics.inc.jsp"></jsp:include>
+  <jsp:include page="/WEB-INF/pages/analytics.inc.jsp"></jsp:include>
 </head>
 <body>
 
-<jsp:include page="/WEB-INF/jsp/menus/top.inc.jsp"></jsp:include>
+<jsp:include page="/WEB-INF/pages/menus/top.inc.jsp"></jsp:include>
 <div class="container">
 <hgroup>
 

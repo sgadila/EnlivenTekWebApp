@@ -2,8 +2,8 @@
     </div>
 
 <footer>
-  <jsp:include page="/WEB-INF/jsp/ads/bottom.inc.jsp"></jsp:include>
-  <p>&copy; ${year} - By Pierre-Henry | All Rights Reserved &nbsp; &bull; &nbsp; <jsp:include page="/WEB-INF/jsp/menus/bottom.inc.jsp"></jsp:include></p>
+  <jsp:include page="/WEB-INF/pages/ads/bottom.inc.jsp"></jsp:include>
+  <p>&copy; ${year} - By Pierre-Henry | All Rights Reserved &nbsp; &bull; &nbsp; <jsp:include page="/WEB-INF/pages/menus/bottom.inc.jsp"></jsp:include></p>
   
 </footer>
 
