@@ -1,4 +1,4 @@
-package com.coolonWeb;
+package src.main.src.com.coolonWeb;
 
 import java.io.IOException;
 
