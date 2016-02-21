@@ -7,7 +7,16 @@
         http://www.springframework.org/schema/context 
         http://www.springframework.org/schema/context/spring-context-3.0.xsd">
  
+	<mvc:resources mapping="/resources/**" location="/resources/theme1/" cache-period="31556926"/>
+
+    <mvc:annotation-driven />
+	
 	<context:component-scan base-package="src.main.src.com.coolonWeb.Filter" />
 
-
+		<bean
+		class="src.main.src.com.coolonWeb.Filter">
+		<property name="Filter">
+			<value>*.jsp</value>
+		</property>
+	</bean>
 </beans>
