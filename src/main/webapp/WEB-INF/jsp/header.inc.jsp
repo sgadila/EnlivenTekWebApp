@@ -5,7 +5,7 @@
 <title>${pageTitle} - ${siteName}</title>
 <meta name="description" content="${metaDescription}" />
 <meta name="keywords" content="${metaKeywords}" />
-  <meta name="author" content="Pierre-Henry Soria" />
+  <meta name="author" content="Sreeni Gadila" />
   <link rel="stylesheet" href="${tplUrl}css/bootstrap.css" />
   <link rel="stylesheet" href="${tplUrl}css/bootstrap-responsive.css" />
   <link rel="stylesheet" href="${tplUrl}css/common.css" />

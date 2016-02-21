@@ -10,10 +10,9 @@
           
       <nav class="nav-collapse">
   <ul class="nav">
-    <li class="active"><a href="${url}" data-load="ajax">Home</a></li>
-    <li><a href="${url}about.jsp" data-load="ajax">About</a></li>
-    <li><a href="${url}contact.jsp" data-load="ajax">Contact</a></li>
-    <li><a href="${url}help-me.jsp" data-load="ajax">Help Me</a></li>
+    <li class="active"><a href="${url}home.jsp" data-load="ajax">Home</a></li>
+    <li><a href="${url}about.jsp" data-load="ajax">About US</a></li>
+    <li><a href="${url}contact.jsp" data-load="ajax">Contact</a></li>    
   </ul>
 </nav>
 
