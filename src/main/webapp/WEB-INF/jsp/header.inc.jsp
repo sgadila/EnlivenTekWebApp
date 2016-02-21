@@ -6,11 +6,11 @@
 <meta name="description" content="${metaDescription}" />
 <meta name="keywords" content="${metaKeywords}" />
   <meta name="author" content="Pierre-Henry Soria" />
-  <link rel="stylesheet" href="/resources/css/bootstrap.css" />
-  <link rel="stylesheet" href="/resources/css/bootstrap-responsive.css" />
-  <link rel="stylesheet" href="/resources/css/common.css" />
-  <link rel="stylesheet" href="/resources/css/ajph.css" />
-  <link rel="stylesheet" href="/resources/css/tipsy.css" />
+  <link rel="stylesheet" href="/EnlivenTekWebApp/resources/css/bootstrap.css" />
+  <link rel="stylesheet" href="/EnlivenTekWebApp/resources/css/bootstrap-responsive.css" />
+  <link rel="stylesheet" href="/EnlivenTekWebApp/resources/css/common.css" />
+  <link rel="stylesheet" href="/EnlivenTekWebApp/resources/css/ajph.css" />
+  <link rel="stylesheet" href="/EnlivenTekWebApp/resources/css/tipsy.css" />
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
   <jsp:include page="/WEB-INF/jsp/analytics.inc.jsp"></jsp:include>
 </head>

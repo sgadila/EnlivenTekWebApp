@@ -8,8 +8,8 @@
 </footer>
 
 </div>
-<script>var url = {stic : '/EnlivenTekWebApp/static/'}</script>
-<script src="/EnlivenTekWebApp/static/js/loader.js"></script>
+<script>var url = {stic : '/EnlivenTekWebApp/resources'}</script>
+<script src="/EnlivenTekWebApp/resources/js/loader.js"></script>
 <script src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
 </body>
 </html>
