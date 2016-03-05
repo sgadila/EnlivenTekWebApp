@@ -16,8 +16,7 @@ request.setAttribute("pageHeading", "Welcome to Enliven-Tech Website!");
 
 </div>
 </body>
-<hgroup>
 <jsp:include page="/WEB-INF/jsp/footer.inc.jsp"></jsp:include>
-</hgroup>
+
 
  
