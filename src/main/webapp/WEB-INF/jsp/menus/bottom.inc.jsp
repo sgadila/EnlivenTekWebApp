@@ -1,1 +1,1 @@
-<a href="" title="Site Map">Site Map</a>&nbsp; &bull; &nbsp; &nbsp; &nbsp;<a href="" data-load="ajax">Privacy Policy</a>&nbsp; &nbsp;<a href="" data-load="ajax">Contact US</a>&nbsp; &nbsp;<a href="" data-load="ajax">About US</a>
+<a href="" title="Site Map">Site Map</a>&nbsp; &bull; &nbsp; &nbsp; &nbsp;<a href="" title="Privacy Policy">Privacy Policy</a>&nbsp; &bull; &nbsp;&nbsp; &nbsp;<a href="" title="Contact US">Contact US</a>&nbsp;  &bull; &nbsp; &nbsp; &nbsp;<a href="" title="About US">About US</a>
