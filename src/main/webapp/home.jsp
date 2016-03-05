@@ -10,8 +10,8 @@ request.setAttribute("pageHeading", "Welcome to Enliven-Tech Website!");
 <body>
 <div class="center">
 <p>
-<h2>Hello, Welcome to Enliventech corp.</p>
-<p>Welcome to the today: </h2><% Date date = new Date( ); SimpleDateFormat ft = new SimpleDateFormat ("E MM.dd.yyyy"); out.print( + ft.format(date) +); %></p>
+<h4>Hello, Welcome to Enliventech corp.</p>
+<p>Welcome to the today: </h4><% Date date = new Date( ); SimpleDateFormat ft = new SimpleDateFormat ("E MM.dd.yyyy"); out.print( "<h4>" + ft.format(date) + "</h4>"); %></p>
 
 
 </div>
