@@ -72,7 +72,7 @@
                     <addClasspath>true</addClasspath>
                  </manifest>
                  <manifestEntries>
-                    <Implementation-Version>${build.number}</Implementation-Version>
+                    <Implementation-Version>1.0</Implementation-Version>
                  </manifestEntries>
               </archive>
             </configuration>
