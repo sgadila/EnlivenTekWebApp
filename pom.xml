@@ -4,7 +4,7 @@
   <groupId>enlevintech</groupId>
   <artifactId>EnlivenTek</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1-SNAPSHOT-${build.number}</version>
+  <version>0.0.1-SNAPSHOT</version>
   <name>EnlivenTechUtils</name>
   <url>http://maven.apache.org</url>
   <dependencies>
